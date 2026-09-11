@@ -23,6 +23,7 @@
 
 ---
 
+<a id="sobre-a-best-clima"></a>
 ## 🏢 Sobre a Best Clima
 
 A **Best Clima** atua em **engenharia e climatização**, unindo experiência técnica, gestão e tecnologia para entregar operações mais eficientes e confiáveis.
@@ -33,6 +34,7 @@ Buscamos transformar desafios do dia a dia em **processos melhores, informaçõe
 
 ---
 
+<a id="o-que-fazemos"></a>
 ## ❄️ O que fazemos
 
 <table>
@@ -84,6 +86,7 @@ Buscamos transformar desafios do dia a dia em **processos melhores, informaçõe
 
 ---
 
+<a id="tecnologia--pd"></a>
 ## 💻 Tecnologia & P&D
 
 O departamento de **P&D (Pesquisa e Desenvolvimento)** transforma necessidades reais em **soluções de software e tecnologia**.
@@ -211,19 +214,20 @@ Nosso objetivo é evoluir continuamente, explorando novas tecnologias e transfor
 
 ---
 
+<a id="contato"></a>
 ## 📫 Contato
 
 <p align="center">
 
-<a href="https://www.bestclima.com.br">
+<a href="https://www.bestclima.com.br" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Website-Best%20Clima-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 
-<a href="https://www.linkedin.com/company/best-clima/">
+<a href="https://www.linkedin.com/company/best-clima/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Best%20Clima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/bestclimaarcondicionado/">
+<a href="https://www.instagram.com/bestclimaarcondicionado/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%40bestclimaarcondicionado-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
