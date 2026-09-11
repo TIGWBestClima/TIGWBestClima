@@ -219,7 +219,7 @@ Nosso objetivo é evoluir continuamente, explorando novas tecnologias e transfor
 
 <p align="center">
 
-<a href="https://www.bestclima.com.br" target="_blank">
+<a target="_blank" href="https://www.bestclima.com.br"  rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Website-Best%20Clima-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 
