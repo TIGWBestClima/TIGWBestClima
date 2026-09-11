@@ -17,7 +17,7 @@
   <a href="#sobre-a-best-clima">Sobre</a> •
   <a href="#o-que-fazemos">Atuação</a> •
   <a href="#tecnologia--pd">Tecnologia & P&D</a> •
-  <a href="#projetos">Projetos</a> •
+  <!-- <a href="#projetos">Projetos</a> • -->
   <a href="#contato">Contato</a>
 </p>
 
